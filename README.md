@@ -1,2 +1,2 @@
-# Employee-Record-System
+# EmployeeRecordSystem
 PPS MINI PROJECT
